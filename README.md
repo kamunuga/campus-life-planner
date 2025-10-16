@@ -48,3 +48,8 @@ Currently, there are **manual tests** to check functionality:
 3. **Regex Search**: Type regex patterns in the search bar to filter events dynamically.
 4. **Chart Update**: Ensure the bar graph updates automatically when events are added/edited/deleted.
 5. **Local Storage Persistence**: Reload the page and confirm that events remain visible.
+
+## presentation video
+[watch the video] (https://youtu.be/TykkizzMcCM)
+## web sketch
+(https://mail.google.com/mail/u/0?ui=2&ik=ec6858d1f0&attid=0.1&permmsgid=msg-f:1846170260432239725&th=199eea1207f43c6d&view=fimg&fur=ip&permmsgid=msg-f:1846170260432239725&sz=s0-l75-ft&attbid=ANGjdJ8Ln5Chs-kYbm_QwHXR9DC9cgOpmKQ6BbknSg675nEJtCoFb0TUq4IaB6V7WzP3-r2WlCQEx7mIgPTMDv__Byxy-1v_620tcDYexw9fp-ilvTD_j3TRR3fpkFE&disp=emb&realattid=ii_199eea0c19fd0ac56eb1&zw)
